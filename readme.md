@@ -6,6 +6,13 @@ Below is a comparison of the **Predicted Requirement** and **Real Requirement** 
 
 ![Predicted vs Real Requirement](images/output.png)
 
+
+## Authors
+- Sourav Dubey
+- Idris Barwaniwala
+- Kaustubh Deshpande
+
+
 ## Overview
 This project focuses on inventory prediction, aiming to forecast the demand for specific items in the future and track inventory levels based on predicted results. By leveraging machine learning techniques and time series analysis, the system minimizes complications such as overstocking, understocking, and dead-stock, while reducing maintenance costs.
 
